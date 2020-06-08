@@ -1,5 +1,5 @@
 
-# Module 3 -  Northwind Database Investigation
+# Module 3 -  Northwind Business Metrics Analysis
 
 ## PURPOSE
 
